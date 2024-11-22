@@ -59,7 +59,7 @@ This project is a sample project for creating a VS Code plugin with a hexagonal 
 ## Documentation
 
 <p>
-   <img src="https://www.plantuml.com/plantuml/proxy?cache=no&src=https://github.com/peterhnm/vscode-hexagonal-example/blob/main/docs/Architecture.puml?raw=true" alt="Component Diagram" /><br />
+   <img src="https://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Miragon/vscode-hexagonal-example/refs/heads/main/docs/Architecture.puml" alt="Component Diagram" /><br />
    <em>The application's rough software architecture</em>
 </p>
 
